@@ -1,4 +1,4 @@
-LegalClinicWeb
+Web-based Legal Clinic Management System
 ==============
 
-Legal clinic management software
+Web-based Legal Clinic Management System
